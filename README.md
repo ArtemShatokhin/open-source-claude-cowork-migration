@@ -44,3 +44,8 @@ If you want the background first, the [open-source Claude Cowork hub](https://op
 ## Sources
 
 Kortix facts come from [Kortix](https://kortix.com), the [Kortix docs](https://kortix.com/docs), and the [Kortix on GitHub](https://github.com/kortix-ai/suna) repository. Claude Cowork facts come from Anthropic's own [Claude Cowork product page](https://claude.com/product/cowork) and its [Get started with Claude Cowork](https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork) help article, read in October 2026. Re-read Anthropic's pages before you rely on a specific behavior, because Claude Cowork changes on a fast release cycle.
+
+
+## Where to go next
+
+The live runbook at [Migrate from Claude Cowork](https://opensourceclaudecowork.com/migrate-from-claude-cowork) sequences the move step by step, and [Claude Cowork pricing](https://opensourceclaudecowork.com/claude-cowork-pricing) compares what each route actually costs.
