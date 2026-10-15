@@ -47,5 +47,6 @@ Kortix facts come from [Kortix](https://kortix.com), the [Kortix docs](https://k
 
 
 ## Where to go next
+- When the next stop is Google's agent stack rather than an open-source one, [the Google answer to Claude Cowork](https://opensourceclaudecowork.com/claude-cowork-alternative-google) maps it.
 
 The live runbook at [Migrate from Claude Cowork](https://opensourceclaudecowork.com/migrate-from-claude-cowork) sequences the move step by step, and [Claude Cowork pricing](https://opensourceclaudecowork.com/claude-cowork-pricing) compares what each route actually costs.
