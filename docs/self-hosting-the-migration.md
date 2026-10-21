@@ -12,7 +12,7 @@ The machines are per session. Every session gets its own isolated sandbox on its
 
 ## What runs on your box and what runs off it
 
-On the box: the frontend, the API, the LLM gateway, and the database and storage volumes. Off the box: agent session compute, from a separate sandbox provider, with Daytona as the default and Platinum and E2B also supported. That boundary matters for capacity planning and for a security review, so plan for it before you install. If the control plane must sit inside your network, self-hosting gives you that; the whole control plane for company agent work, accounts, projects, repos, secrets, connectors, policy and audit, runs inside your own network.
+On the box: the frontend, the API, the LLM gateway, and the database and storage volumes. Off the box: agent session compute on Platinum, the reference sandbox provider. That boundary matters for capacity planning and for a security review, so plan for it before you install. If the control plane must sit inside your network, self-hosting gives you that; the whole control plane for company agent work, accounts, projects, repos, secrets, connectors, policy and audit, runs inside your own network.
 
 ## Where Claude Cowork and a self-hosted Kortix differ
 
